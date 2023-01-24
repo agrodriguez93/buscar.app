@@ -9,7 +9,3 @@ Además cada item que devuelve la api cuenta con el nombre del fotográfo que to
 ## Novedades
 
 Se agregó el modal de SweetAlert donde se muestra la foto en un tamaño más grande además del nombre de su fotógrafo. Adicionalmente, se agregó un botón que nos permite volver a la parte superior de la página cuando se realiza mucho scroll hacia abajo.
-
-Para ver la app funcionando, ingresar a: https://agrodriguez93.github.io/buscar.app/
-
-
